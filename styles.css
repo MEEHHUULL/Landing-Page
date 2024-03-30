@@ -70,6 +70,23 @@ button{
     width: 600px;
 }
 
+
+.section3{
+    background-color: #e5e7eb;
+    padding: 75px;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.quoter{
+    font-size: 20px;
+    text-align: right;
+}
+
 .copyright{
     justify-content:center;
     color: #f9faf8;
