@@ -41,7 +41,7 @@ a{
     font-size: 18px; 
 }
 
-button{
+.sec1left button{
     background-color:#3882f6;
     color: white;
     border-radius: 5px;
@@ -85,6 +85,48 @@ button{
 .quoter{
     font-size: 20px;
     text-align: right;
+}
+
+.section4{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #3882f6;
+    height: 200px;
+    width: 600px;
+    border: 1px solid #3882f6;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sec4text{
+    color: white;
+    font-size: 30px;
+}
+
+.sec4subtext{
+    color: white;
+    font-size: 18px;
+}
+
+.sec4left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sec4right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sec4right button{
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    background-color: #3882f6;
 }
 
 .copyright{
